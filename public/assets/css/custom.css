@@ -1,0 +1,23 @@
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    padding: 0;
+}
+
+.theme-color{
+    background-color: #66b033 !important;
+}
+
+.text-color{
+    color: #66b033 !important;
+}
+ .button-color{
+     background-color: #66b033 !important;
+ }
+
+.shake_effect
+{
+    animation: shake 1s ;
+}
