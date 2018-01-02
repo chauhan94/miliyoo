@@ -31,7 +31,7 @@
                             </div>
 
                             <div class="card-content">
-                                <span class="card-title activator">Retailer Name: {{$retailer->user_name}}</span>
+                                <span class="card-title activator">Retailer name: {{$retailer->user_name}}</span>
                                 <span class="card-title activator">Retailer license No: {{$retailer->license_no}}</span>
                                 <span class="card-title activator">Retailer phone: {{$retailer->mobile_no}}</span>
                                 <span class="card-title activator" style="padding-bottom: 10px"><i class="material-icons right">more_vert</i></span>
